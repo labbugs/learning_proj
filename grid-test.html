@@ -42,6 +42,20 @@
         font-size: 80%;
         margin: 5px;
       }
+
+      /* adding grid & flex css under this */
+
+      .container {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+          grid-gap: 10px;
+      }
+
+      .card .tags {
+          display: flex;
+          flex-flow: wrap;
+          justify-content: center;
+      }
     </style>
 
   </head>
