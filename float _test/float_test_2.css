@@ -21,12 +21,9 @@
         background-color: rgb(207,232,220);
         padding: 1em;
       }
-
-      .float1 {
-          float: left;
+      .float {
         }
 
-      .float2 {
-          float: right;
+      .below {
         }
-   
+    </style>
