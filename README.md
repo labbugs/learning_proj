@@ -1,2 +1,2 @@
 # Just learning some stuff
-Some sample code
+working through different examples and problems from the MDN web docs site, Learning web development
