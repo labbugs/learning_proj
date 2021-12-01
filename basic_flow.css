@@ -16,6 +16,7 @@
         background: red;
         border: 1px solid black;
       }
+      
       /* new CSS for 'Positioning' added here */
 
       .positioned {
@@ -24,3 +25,11 @@
           left: 30px;
           background: yellow;
       }
+
+       p:nth-of-type(1) {
+           position: absolute;
+           z-index: 1;
+           background: lime;
+           top: 10px;
+           right: 30px;
+       }
