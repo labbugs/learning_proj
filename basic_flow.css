@@ -15,3 +15,11 @@
         background: red;
         border: 1px solid black;
       }
+      /* new CSS for 'Positioning' added here */
+
+      .positioned {
+          position: relative;
+          top: 30px;
+          left: 30px;
+          background: yellow;
+      }
